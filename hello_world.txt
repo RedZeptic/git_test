@@ -1,0 +1,3 @@
+Hello World!
+
+Typical right? Who would have guessed a file named this would contain... exactly that, and a hint of side commentary.
